@@ -15,3 +15,7 @@ My name is [Ridwan](https://en.wikipedia.org/wiki/Ridwan_(name)) [Hady](https://
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rid1hady&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rid1hady&theme=tokyonight&layout=compact&langs_count=10&hide=postscript,tex" />
+</p>
