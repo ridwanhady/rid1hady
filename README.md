@@ -4,8 +4,6 @@ My name is [Ridwan](https://en.wikipedia.org/wiki/Ridwan_(name)) [Hady](https://
 
 ---
 
-- 🔭 I’m currently working on mental health bot in Indonesian Language, wait for it 💖
-- 🌱 I’m currently learning chatbot and web development
 - 📫 How to reach me:
   - 🔗 [LinkedIn](https://linkedin.com/in/ridwanhady)
   - 📫 ridwanhady31@gmail.com
